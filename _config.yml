@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://wwcs2020.github.io
+url:                   https://wwns2026.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,19 +19,18 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Winter Workshop on Complex Systems 2020
+title:                 Winter Workshop on Network Science 2026
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-#  The Winter Workshop on Complex Systems is a one-week workshop where young researchers from all over the world
+#  The Winter Workshop on Network Science is a one-week workshop where youngish researchers from all over the world
 #  gather together for discussing about complexity science and engaging into novel research projects.
-#  This is the 6th edition of the WWCS and will be held in Switzerland.
-#  Previously it was held in Brussels, Madrid and Petnica, Utrecht and Zakopane.
+
 
 # A shorter description for the sidebar.
 tagline:               >
-  27 January -- 31 January 2020 Switzerland
+  Spring 2026
 
 # A list of keywords for your blog
 keywords:              []
@@ -43,11 +42,11 @@ logo:                  /assets/icons/icon@3x.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                wwcs2020
-  email:               wwcs2020@gmail.com
+  name:                wwns2026
+  #email:               wwcs2020@gmail.com
   # Used by `jekyll-seo-tag`:
-  twitter:             winter_complex
-  github:              wwcs2020
+  #twitter:             winter_complex
+  github:              wwns2026
 
 # Add links to the sidebar.
 #menu:
@@ -61,24 +60,24 @@ author:
 menu:
   - title: About
     url: /about/
-  - title: Programme
-    url:   /programme/
+#  - title: Programme
+#    url:   /programme/
   - title: Speakers
     url:   /speakers/
-  - title: Venue
-    url:   /venue/
+#  - title: Venue
+#    url:   /venue/
 #  - title: Registration
 #    url: /registration/
-  - title: Contacts
-    url:   /contacts/
-  - title: Application
-    url:   /application/
-  - title: Sponsors
-    url:   /sponsors/
-  - title: Projects
-    url:  /projects/
-  - title: Gallery
-    url:  /gallery/
+#  - title: Contacts
+#    url:   /contacts/
+#  - title: Application
+#    url:   /application/
+#  - title: Sponsors
+#    url:   /sponsors/
+#  - title: Projects
+#    url:  /projects/
+#  - title: Gallery
+#    url:  /gallery/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -148,7 +147,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-142483981-1
+# google_analytics:      UA-142483981-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
