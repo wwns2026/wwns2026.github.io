@@ -4,7 +4,7 @@ title:  Speakers
 ---
 ## Leto Peel
 
-<p style="text-align:center;"><img src="/assets/image/celroz.png](https://piratepeel.github.io/img/leto_300.png" width="250" alt="Paris" class="center" /></p> <!--#height="300"-->
+<p style="text-align:center;"><img src="https://piratepeel.github.io/img/leto_300.png" width="250" alt="Paris" class="center" /></p> <!--#height="300"-->
 
 Leto Peel is an Assistant Professor at the Department of Data Analytics and Digitalisation (School of Business and Economics) of Maastricht University. His main research interests are in machine learning for complex networks, in particular the use of probabilistic generative models and Bayesian inference.
 
